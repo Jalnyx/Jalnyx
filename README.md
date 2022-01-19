@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Jalnyx
 - 👀 I’m interested in expanding my understanding of software
 - 🌱 I’m currently learning Elixir
-- 💞️ I’m looking to collaborate on anything and everything!
---- I'm very new to software engineering, but am a Controls Engineer
---- I've worked inside of Visual Studio on object-oriented programs based on C++
+- 💞️ I’m looking to collaborate on anything and everything! <br/>
+--- I'm very new to software engineering, but have been a Controls Engineer for 7 years <br/>
+--- I've worked inside of Visual Studio on object-oriented programs based on C++  <br/>
 - 📫 How to reach me ...
 
 <!---
